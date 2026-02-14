@@ -1,0 +1,224 @@
+{
+  "version": 1,
+  "base_track": "Toxic Luv",
+  "base_artist": "春野",
+  "createdAt": "2026-02-14T07:31:02.739327Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "TOXIC LUV",
+      "artist": "Young Multi feat. White 2115",
+      "has_synced": true,
+      "path": "select/01_TOXIC_LUV_Young_Multi_feat._White_2115.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Toxic Luv",
+      "artist": "Young Multi & White 2115",
+      "has_synced": true,
+      "path": "select/02_Toxic_Luv_Young_Multi_&_White_2115.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Toxic Luv",
+      "artist": "Qaab",
+      "has_synced": true,
+      "path": "select/03_Toxic_Luv_Qaab.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "TOXIC LUV",
+      "artist": "Young Multi",
+      "has_synced": true,
+      "path": "select/04_TOXIC_LUV_Young_Multi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Toxic Luv",
+      "artist": "Kai September",
+      "has_synced": true,
+      "path": "select/05_Toxic_Luv_Kai_September.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "TOXIC LUV",
+      "artist": "White 2115",
+      "has_synced": true,
+      "path": "select/06_TOXIC_LUV_White_2115.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "TOXIC LUV",
+      "artist": "Daniel Javan",
+      "has_synced": false,
+      "path": "select/07_TOXIC_LUV_Daniel_Javan.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Toxic Luv",
+      "artist": "Kai September",
+      "has_synced": false,
+      "path": "select/08_Toxic_Luv_Kai_September.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Toxic Luv",
+      "artist": "Haruno",
+      "has_synced": false,
+      "path": "select/09_Toxic_Luv_Haruno.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ghosts (Toxic Avenger Remix)",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/10_Ghosts_(Toxic_Avenger_Remix)_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Toxic",
+      "artist": "jonatan leandoer96",
+      "has_synced": true,
+      "path": "select/11_Toxic_jonatan_leandoer96.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Toxic",
+      "artist": "jonatan leandoer127",
+      "has_synced": true,
+      "path": "select/12_Toxic_jonatan_leandoer127.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "TOXIC BOY",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/13_TOXIC_BOY_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sirens of Your Toxic Spirit",
+      "artist": "of Montreal",
+      "has_synced": false,
+      "path": "select/14_Sirens_of_Your_Toxic_Spirit_of_Montreal.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Jailbird - The Toxic Trio Stay Free Mix",
+      "artist": "Primal Scream",
+      "has_synced": false,
+      "path": "select/15_Jailbird_-_The_Toxic_Trio_Stay_Free_Mix_Primal_Scream.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Toxic (with Lil Durk)",
+      "artist": "Summer Walker feat. Lil Durk",
+      "has_synced": true,
+      "path": "select/16_Toxic_(with_Lil_Durk)_Summer_Walker_feat._Lil_Durk.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Toxic (feat. Lil Durk)",
+      "artist": "Summer Walker",
+      "has_synced": true,
+      "path": "select/17_Toxic_(feat._Lil_Durk)_Summer_Walker.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Ghosts (Toxic Avenger Mix)",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/18_Ghosts_(Toxic_Avenger_Mix)_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Toxic",
+      "artist": "Ashnikko",
+      "has_synced": true,
+      "path": "select/19_Toxic_Ashnikko.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Mora VS. the Toxic Avenger",
+      "artist": "Sonny",
+      "has_synced": true,
+      "path": "select/20_Mora_VS._the_Toxic_Avenger_Sonny.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Mora vs. The Toxic Avenger",
+      "artist": "Skrillex",
+      "has_synced": true,
+      "path": "select/21_Mora_vs._The_Toxic_Avenger_Skrillex.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Toxic Girl",
+      "artist": "Kings of Convenience",
+      "has_synced": true,
+      "path": "select/22_Toxic_Girl_Kings_of_Convenience.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Toxic Girl - Monte Carlo 1963 Version",
+      "artist": "Kings of Convenience",
+      "has_synced": true,
+      "path": "select/23_Toxic_Girl_-_Monte_Carlo_1963_Version_Kings_of_Convenience.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Toxic",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Melinda Doolittle",
+      "has_synced": true,
+      "path": "select/24_Toxic_Scott_Bradlee's_Postmodern_Jukebox_feat._Melinda_Doolittle.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Toxic",
+      "artist": "Scott Bradlee's Postmodern Jukebox",
+      "has_synced": true,
+      "path": "select/25_Toxic_Scott_Bradlee's_Postmodern_Jukebox.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Toxic - Karaoke",
+      "artist": "Scott Bradlee & Postmodern Jukebox",
+      "has_synced": false,
+      "path": "select/26_Toxic_-_Karaoke_Scott_Bradlee_&_Postmodern_Jukebox.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Toxic Luv",
+      "artist": "春野",
+      "has_synced": false,
+      "path": "select/pl_01_Toxic_Luv_春野.txt"
+    }
+  ]
+}
